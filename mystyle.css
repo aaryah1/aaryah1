@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: lightpink;
+  color:lavender;
+}
+p{
+  font-family:fantasy;
+}
